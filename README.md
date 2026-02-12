@@ -6,7 +6,7 @@
 
 ## Sobre o Projeto
 
-Vitalis Clínica Integrada é uma landing page institucional moderna desenvolvida para clínicas médicas que buscam fortalecer sua presença digital. O projeto resolve o problema da conversão de visitantes em pacientes através de um design estratégico focado em confiança, acessibilidade e performance.
+Vitalis Clínica Integrada é uma landing page institucional moderna desenvolvida para clínicas médicas que buscam fortalecer sua presença digital e aumentar a conversão de visitantes em pacientes. O projeto oferece uma experiência premium através de design estratégico focado em confiança, acessibilidade e performance excepcional.
 
 **Arquitetura limpa focada em:**
 - **SEO Técnico:** Meta tags completas, semântica HTML5 e structured data ready
